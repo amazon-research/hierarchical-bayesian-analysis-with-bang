@@ -14,7 +14,7 @@
 #### You should have received a copy of the GNU General Public License
 #### along with this program. If not, see <http://www.gnu.org/licenses/gpl-2.0.html>.
 #################################################################
-
+# This file comes from bang package.
 # ========================== set_user_prior ===================================
 
 #' Set a user-defined prior

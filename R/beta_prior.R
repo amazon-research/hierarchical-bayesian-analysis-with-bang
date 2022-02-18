@@ -14,6 +14,7 @@
 #### You should have received a copy of the GNU General Public License
 #### along with this program. If not, see <http://www.gnu.org/licenses/gpl-2.0.html>.
 #################################################################
+# This file comes from bang package and is modified.
 # Default priors
 # Admissibity of x is checked in the call to the log-likelihood
 # so we don't need to check it again here.

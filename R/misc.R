@@ -14,7 +14,7 @@
 #### You should have received a copy of the GNU General Public License
 #### along with this program. If not, see <http://www.gnu.org/licenses/gpl-2.0.html>.
 #################################################################
-
+# This file comes from bang package.
 # Function to test whether the values in x are whole numbers
 
 is_wholenumber <- function(x, tol = .Machine$double.eps^0.5) {
